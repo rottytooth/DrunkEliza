@@ -184,11 +184,11 @@ function start() {
         elizaName:  "DRUNK ELIZA: ",
     
         intro:
-            "\033[2J*** DRUNK ELIZA ***\n" +
+            "\n\n\n\n\n*** DRUNK ELIZA ***\n" +
             "BASED ON ELIZA CODE BY JOHN SCHUGG, JANUARY 1985\n" +
             "ORIGINAL PROGRAM BY JOSEPH WEIZENBAUM, 1966\n" +
             "HAVE ANY PROBLEMS ? \n" +
-            "LET ELIZA HELP YOU !\n\n" +
+            "LET ELIZA HELP YOU !\n\n\n" +
             "TYPE EXIT TO RETURN TO MENU",
     
         question:   "HI! I'M ELIZA. WHAT'S YOUR PROBLEM?",
