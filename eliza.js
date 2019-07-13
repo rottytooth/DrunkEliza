@@ -188,7 +188,8 @@ function start() {
             "BASED ON ELIZA CODE BY JOHN SCHUGG, JANUARY 1985\n" +
             "ORIGINAL PROGRAM BY JOSEPH WEIZENBAUM, 1966\n" +
             "HAVE ANY PROBLEMS ? \n" +
-            "LET ELIZA HELP YOU !\n",
+            "LET ELIZA HELP YOU !\n\n" +
+            "TYPE EXIT TO RETURN TO MENU",
     
         question:   "HI! I'M ELIZA. WHAT'S YOUR PROBLEM?",
         repeat:     "PLEASE DON'T REPEAT YOURSELF!",
